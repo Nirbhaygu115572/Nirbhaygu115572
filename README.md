@@ -43,9 +43,10 @@ Hi, I'm Nirbhay Prakash Gupta,a passionate engineering graduate specialised in c
 &nbsp;
 
 ![Nirbhay's github stats](https://github-readme-stats.vercel.app/api?username=nirbhaygu115572&show_icons=true&hide_border=true)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirbhaygu115572&show_icons=true&locale=en" alt="nirbhaygu115572" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirbhaygu115572&show_icons=true&locale=en&layout=compact" alt="nirbhaygu115572" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirbhaygu115572&" alt="nirbhaygu115572" /></p>
-💻 Recent projects in which I have contributed in my [github](https://github.com/PrudhviGNV/)
+💻 Recent projects in which I have contributed in my [github](https://www.linkedin.com/in/i-nirbhaygupta/)
 
 
