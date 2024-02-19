@@ -1,5 +1,7 @@
 <h1>Hey, I am <a href="https://nirbhaygu115572.github.io/Portfolio/">Nirbhay </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirbhaygu115572" alt="nirbhaygu115572" /></a> </p>
+
 <a href="https://www.linkedin.com/in/i-nirbhaygupta/"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/linkedin.png" width="40" /> </a> <a href="https://github.com/Nirbhaygu115572"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/github-logo.png" width="40" /> </a> <a href="https://www.facebook.com/profile.php?id=100013084517080&mibextid=ZbWKwL"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/facebook.png" width="40" /> </a> <a href="mailto:nirbhaygu115572@gmail.com"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/google-plus.png" width="40" /> </a> <a href="https://www.hackerrank.com/profile/0201dit224"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/hackerank.jpg" width="42" /> </a> <a
  href="https://www.instagram.com/I_nirbhaygupta"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/instagram.png" width="40" /> </a><a href="https://github.com/Nirbhaygu115572"><img src="https://github.com/Nirbhaygu115572/Nirbhaygu115572/blob/main/logos/home.png" width="40" /></a>
 
